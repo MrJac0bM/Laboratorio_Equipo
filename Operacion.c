@@ -8,10 +8,7 @@ int op1 = suma(num1,num2);
 printf("%i",op1);
 int op2 = resta(num1,num2);
 
-13
 
 printf("%i",op2);
-int op3 = multi(num1,num2);
-printf("%i",op3);
 return 0;
 }
